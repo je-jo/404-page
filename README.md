@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://je-jo.github.io/404-page/">
       Demo
     </a>
     <span> | </span>
@@ -30,7 +30,7 @@
 
 ## Overview
 
-![screenshot](404.png)
+![screenshot](https://raw.githubusercontent.com/je-jo/404-page/main/404.png?token=ATVTID4YKWR75WVPB45HWV3BWUM5Y)
 
 This is my first time converting Figma design to code.
 
